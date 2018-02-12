@@ -1,0 +1,10 @@
+body{
+	background: #eff3f6;
+}
+.staticModal{
+	display: block !important;
+	position: inherit !important;
+}
+.modal-footer{
+	border-top: 0px;
+}
